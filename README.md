@@ -1,5 +1,8 @@
 # Data-comparison-tool-csv-file
 This Python-based GUI application compares and analyzes data between two Excel or CSV files, highlighting differences and matches.
+![image](https://github.com/user-attachments/assets/7d45d360-7fd8-412f-922e-52939e24137d)
+
+
 
 The program is a Python-based GUI application that allows users to compare and analyze data between two files (Excel or CSV). The user can load an "old" and a "new" file, select specific columns to compare, and identify differences or matches based on a chosen primary key column. The application highlights the discrepancies and allows the user to save the results, along with statistical summaries such as the number and percentage of changes/matches. The results can be exported to an Excel file, which includes detailed data and visual representations like bar graphs for easy analysis.
 
